@@ -10,3 +10,9 @@ PS: rememeber to create a folder called "cache" and make sure it's in the same d
                             Here's one for Monaco (yes we know the race was a procession)
 ![Monaco race graph](https://github.com/NateMophi/Formula-1-2024-PCPL/assets/66631222/54dc8f7e-ab1c-4225-9fcd-fcda161a0f3e)
 
+
+
+                            Last 15 Laps of the Austrian GP tell a thrilling story
+![Screenshot 2024-07-03 162701](https://github.com/NateMophi/Formula-1-2024-PCPL/assets/66631222/d897faad-9138-4006-84ff-c33d960d7640)
+
+
